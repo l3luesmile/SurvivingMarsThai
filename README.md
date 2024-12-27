@@ -15,4 +15,5 @@
 ## ขอบคุณฟอนต์สวยๆจาก
 - Sriracha (OFL) โดย คัดสรรดีมาก
 
+# [ร่วมแปลกับเรา](https://docs.google.com/spreadsheets/d/12ZEcwutuUp3zccTgZ-3Ndk8GLI5NR7XYBolgbQ-Ocdw/edit?usp=sharing)
 # ร่วมสนับสนุนได้ที่ [Discord](https://discord.gg/DTCmF34z) 
